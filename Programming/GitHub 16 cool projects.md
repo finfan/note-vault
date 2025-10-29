@@ -1,0 +1,6 @@
+#github
+https://www.youtube.com/watch?v=cgOPg5cCr2g
+
+1. Awesome lists: [https://github.com/sindresorhus/awesome](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmwwN0gzQUxiNXZFcGtJVmYyZlVkQVRjaDdqUXxBQ3Jtc0tubjl4TEUxMXlyUTNnV2JCb3JfSUc1andRQ3BSeXNXbkV5ZlZmajY1OUJIMmdkVVliR25seWxVSHhkLXdlbXQ3U0pjbVltd092dk1rb1ZqR01tYkFxNElBNE1COHRnVlFLam1EWVRsUFN6c1FmUDRzSQ&q=https%3A%2F%2Fgithub.com%2Fsindresorhus%2Fawesome&v=cgOPg5cCr2g)
+2. The Algorithms: [https://github.com/thealgorithms](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWIySWs5N0pITzE0MHN6T3p5aHdZQ0ZKWWxJZ3xBQ3Jtc0tuUnVoZXBQckFsa1RPb0FqaWV6NFJ4bmhtaldDU1FWNGx5ejBvUXg0ZFFVSVBvbnoydnU1MThra0JhaTFJeFBJcXNhU3NlV1ktUzNrVkJaa1A2OHhXRHdIT3dzb0VESnVHZDBrY3lmWVoxUV9aY3U3RQ&q=https%3A%2F%2Fgithub.com%2Fthealgorithms&v=cgOPg5cCr2g)
+3. 

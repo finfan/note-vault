@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "a53c82e27d792e5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1341076a335d6c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee042d6c74e658e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Generate ssh key on ubuntu server for github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Generate ssh key on ubuntu server for github"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf642e9220abb0fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0215b5fe518a273f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a4e9a51fc323f08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "99787ac8a26058b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "1dc53c723fbcf375",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0d84a89f7e7e918d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfafa3b1a4395af3",
+        "type": "tabs",
+        "dimension": 65.98837209302326,
+        "children": [
+          {
+            "id": "199e5ab84ff02d95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20250826141131.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20250826141131"
+            }
+          },
+          {
+            "id": "6b029e253ffdbebd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20250826141131.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20250826141131"
+            }
+          },
+          {
+            "id": "179a2d0c524dad1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "89767cea7718f011",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Generate ssh key on ubuntu server for github.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Generate ssh key on ubuntu server for github"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d92d9a5293db54ea",
+        "type": "tabs",
+        "dimension": 34.01162790697675,
+        "children": [
+          {
+            "id": "bb273a753a7bd158",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-book-search-plugin:Create new book note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "ee042d6c74e658e2",
+  "lastOpenFiles": [
+    "Warren IT/Hyper-V.md",
+    "Warren IT/I.T..md",
+    "Warren IT/Inventory-DB.md",
+    "Warren IT/NAS Servers.md",
+    "Warren IT/Network.md",
+    "Warren IT/Plant 1.md",
+    "install docker on ubuntu server.md",
+    "Programming/SQL Queries/Jobboss API Queries.md",
+    "Programming/SQL Queries/Jobboss Table Info.md",
+    "Warren IT/Restic.md",
+    "Programming/SQL Queries",
+    "JobbossTables.txt",
+    "New Text Document.txt",
+    "Warren IT/Top rated printers for shipping Plant 1.md",
+    "Warren IT/Tailscale.md",
+    "Warren IT/WRN-NAS-P1-02.md",
+    "Warren IT/WRN-NAS-P1-01.md",
+    "Linux/shell scripting.md",
+    "().md",
+    "Linux/RSYNC.md",
+    "Linux/Edit linux hosts file for local network.md",
+    "Linux/Cool Linux Commands.md",
+    "Linux/cheat sheet of linux commands.md",
+    "Linux/what is bash export on a command.md",
+    "Linux/Ubuntu Server.md",
+    "Linux/how do i exacute a bash file.md",
+    "Linux/Learn Linux.md",
+    "Linux/Linux commands for network shares.md",
+    "how do i create api documents from isomnia v11_.md",
+    "Renewed Domain Name 10_15_25 Network Solutions.pdf",
+    "Books/PDFBooks/Laws_of_human_nature_-_Robert_Greene.pdf",
+    "Programming/WarrenJobbossAPI/WarrenAPI.jpg",
+    "EDI Proccess.canvas",
+    "Warren IT/Covisint.png",
+    "Warren IT",
+    "Books/PDFBooks/Eloquent_JavaScript_4th_Edition.pdf",
+    "Personnal/Books/Screenshot 2025-08-29 165712.jpg",
+    "git",
+    "Books/PDFBooks/AI/Superintelligence__Paths_Dangers_Strateg_-_Nick_Bostrom.pdf",
+    "Books/PDFBooks/AI/Competing_in_the_Age_of_AI_-_Marco_Iansiti.pdf",
+    "Daily Journal/mnf parlay.jpg",
+    "Daily Journal/mnf parlay 2.jpg",
+    "Personnal/Books/Screenshot 2025-08-29 163006.jpg",
+    "Personnal/Books/Screenshot 2025-08-29 162913.jpg",
+    "Books/NotebookLM Mind Map.png",
+    "Pasted image 20250828110002.png",
+    "Personnal/Books/Screenshot 2025-08-29 165854.jpg",
+    "Work/Untitled/IT/Untitled.canvas",
+    "Work/Untitled.canvas"
+  ]
+}

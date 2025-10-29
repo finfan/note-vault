@@ -1,0 +1,7 @@
+
+[[WRN-SRV-FS-P1]]
+[[WRN-SRV-AP-P1]]
+[[WRN-SRV-AP-02]]
+[[WRN-SRV-DC-P1]]
+
+
