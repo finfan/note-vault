@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Generate ssh key on ubuntu server for github.md",
+                "file": "Linux/what is bash export on a command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generate ssh key on ubuntu server for github"
+              "title": "what is bash export on a command"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 398.5
   },
   "right": {
     "id": "0d84a89f7e7e918d",
@@ -145,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Generate ssh key on ubuntu server for github.md",
+                "file": "Linux/what is bash export on a command.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Generate ssh key on ubuntu server for github"
+              "title": "Outline of what is bash export on a command"
             }
           }
         ],
@@ -194,6 +193,19 @@
   },
   "active": "ee042d6c74e658e2",
   "lastOpenFiles": [
+    "Linux/Ubuntu Server.md",
+    "Linux/TMUX CheatSheet.md",
+    "Linux/Linux commands for network shares.md",
+    "Linux/Learn Linux.md",
+    "Linux/how do i execute a bash file.md",
+    "Linux/Edit linux hosts file for local network.md",
+    "Linux/Cool Linux Commands.md",
+    "Linux/cheat sheet of linux commands.md",
+    "Linux/Linux common file commands.md",
+    "Linux/on ubuntu 24 show current cron jobs.md",
+    "Linux/RSYNC.md",
+    "Linux/shell scripting.md",
+    "Programming/Generate ssh key on ubuntu server for github.md",
     "Warren IT/Hyper-V.md",
     "Warren IT/I.T..md",
     "Warren IT/Inventory-DB.md",
@@ -210,19 +222,6 @@
     "Warren IT/Top rated printers for shipping Plant 1.md",
     "Warren IT/Tailscale.md",
     "Warren IT/WRN-NAS-P1-02.md",
-    "Warren IT/WRN-NAS-P1-01.md",
-    "Linux/shell scripting.md",
-    "().md",
-    "Linux/RSYNC.md",
-    "Linux/Edit linux hosts file for local network.md",
-    "Linux/Cool Linux Commands.md",
-    "Linux/cheat sheet of linux commands.md",
-    "Linux/what is bash export on a command.md",
-    "Linux/Ubuntu Server.md",
-    "Linux/how do i exacute a bash file.md",
-    "Linux/Learn Linux.md",
-    "Linux/Linux commands for network shares.md",
-    "how do i create api documents from isomnia v11_.md",
     "Renewed Domain Name 10_15_25 Network Solutions.pdf",
     "Books/PDFBooks/Laws_of_human_nature_-_Robert_Greene.pdf",
     "Programming/WarrenJobbossAPI/WarrenAPI.jpg",

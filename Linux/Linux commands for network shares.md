@@ -8,11 +8,7 @@ On Ubuntu Server 24, you can identify network directories (network-mounted files
 
 ## Primary Methods to Identify Network Directories
 
-  
-
 ### Using the `mount` Command
-
-  
 
 The most straightforward way is to filter the mount command output for network filesystem types:
 ```bash
@@ -27,10 +23,8 @@ This shows only CIFS (SMB/Windows shares) and NFS mounts. You can also use grep 
 mount | grep -E "(cifs|nfs|nfs4)"
 
 ```
-
   
 ### Using the `df` Command
-
 
 The `df -h` command displays mounted filesystems with their usage statistics, and network mounts will show their network paths:
 ```bash

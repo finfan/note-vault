@@ -1,8 +1,7 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
 # what is bash export on a command
 
-The bash `export` command is a built-in shell command that makes variables and functions available to child processes by marking them for inclusion in the environment of subsequently executed commands.[^1][^4]
+The bash `export` command is a built-in shell command that makes variables and functions available to child processes by marking them for inclusion in the environment of subsequently executed commands.
 
 ## Basic Function
 

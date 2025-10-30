@@ -1,5 +1,5 @@
 
-# how do i exacute a bash file
+# how do i execute a bash file
 
 There are several ways to execute a bash script file in Linux. Here are the most common methods:
 
@@ -11,7 +11,7 @@ The simplest way is to use the `bash` command followed by your script name:
 bash script.sh
 ```
 
-This works regardless of file permissions and doesn't require the script to be executable.[^1][^2][^4]
+This works regardless of file permissions and doesn't require the script to be executable.
 
 ## Method 2: Using the sh Command
 
@@ -21,7 +21,7 @@ You can also use the `sh` command:
 sh script.sh
 ```
 
-This runs the script through the system's default shell interpreter.[^2][^4]
+This runs the script through the system's default shell interpreter.
 
 ## Method 3: Make the Script Executable (Most Common)
 
@@ -37,7 +37,7 @@ Then run it directly:
 ./script.sh
 ```
 
-The `./` tells the system to look in the current directory for the script.[^4][^1][^2]
+The `./` tells the system to look in the current directory for the script.
 
 ## Method 4: Using source Command
 
